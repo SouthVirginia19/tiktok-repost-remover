@@ -50,14 +50,6 @@ This guide will walk you through every step to successfully remove all your repo
 
 ---
 
-## 🛑 How to Stop the Script
-
-- To stop at any time, type this into the console and press **`Enter`**:
-```javascript
-window.stopFast = true;
-
-    The script will finish the current video and stop. The total number of deleted reposts will be shown.
-
 ⚙️ Adjusting the Speed
 
 If the script is running too fast (risking a CAPTCHA) or too slow for your liking, you can change the DELAY value.
@@ -101,3 +93,11 @@ No. This script is designed for the desktop web version of TikTok. It will not w
     Check the README for general information and disclaimer.
 
 Happy cleaning! 🧹✨
+
+## 🛑 How to Stop the Script
+
+- To stop at any time, type this into the console and press **`Enter`**:
+```javascript
+window.stopFast = true;
+
+    The script will finish the current video and stop. The total number of deleted reposts will be shown.
