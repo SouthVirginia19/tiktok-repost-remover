@@ -29,7 +29,7 @@ A fast and efficient JavaScript script for the browser console that automaticall
 
 ## 🛑 How to Stop
 
-window.stopFast = true;
+**`window.stopFast = true;`**
 
 ## ⚙️ Customization (Speed Control)
 
