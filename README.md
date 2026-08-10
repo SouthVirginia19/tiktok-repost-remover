@@ -28,8 +28,9 @@ A fast and efficient JavaScript script for the browser console that automaticall
 4.  Copy and paste the entire script from **`script.js`** into the console and press **`Enter`**.[reference:7]
 
 ## 🛑 How to Stop
-
-**`window.stopFast = true;`**
+```javascript
+`window.stopFast = true;
+```
 
 ## ⚙️ Customization (Speed Control)
 
