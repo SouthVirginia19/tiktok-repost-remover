@@ -44,3 +44,50 @@ const DELAY = 400; // Delay in milliseconds between videos. Default is 400ms.
 
 ```markdown
 > 📖 **New to this?** See the full [step-by-step guide](USAGE.md).
+```
+---
+
+## ⭐ Show Your Support
+
+If this script helped you clean up your TikTok profile, consider showing some love!
+
+### 🌟 Star This Repository
+- ⭐ **Star** this repository — it helps others discover this project
+- 🍴 **Fork** it to create your own version or propose improvements
+- 📢 **Share** it with friends who might find it useful
+
+### 🐛 Report Issues
+Found a bug or have a suggestion?
+- Open an [**Issue**](https://github.com/SouthVirginia19/tiktok-repost-remover/issues) on GitHub
+- Provide as much detail as possible (browser, console errors, etc.)
+
+### 💬 Connect With Me
+- Follow me on GitHub: [@SouthVirginia19](https://github.com/SouthVirginia19)
+- If you use this script, feel free to mention me or link back to this repository!
+
+### 🚀 Contribute
+Want to make this script even better? Pull requests are welcome!
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+---
+
+## 📊 GitHub Stats
+
+[![GitHub stars](https://img.shields.io/github/stars/SouthVirginia19/tiktok-repost-remover?style=social)](https://github.com/SouthVirginia19/tiktok-repost-remover/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/SouthVirginia19/tiktok-repost-remover?style=social)](https://github.com/SouthVirginia19/tiktok-repost-remover/network/members)
+[![GitHub watchers](https://img.shields.io/github/watchers/SouthVirginia19/tiktok-repost-remover?style=social)](https://github.com/SouthVirginia19/tiktok-repost-remover/watchers)
+
+---
+
+### 🧹 Happy Cleaning!
+
+> **Remember:** Always use responsibly. TikTok might not like automation, so keep the speed reasonable and take breaks if needed.
+
+---
+
+**Made with ❤️ and ☕ by [SouthVirginia19](https://github.com/SouthVirginia19)**
