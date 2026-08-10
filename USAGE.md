@@ -55,9 +55,8 @@ This guide will walk you through every step to successfully remove all your repo
 - To stop at any time, type this into the console and press **`Enter`**:
 ```javascript
 window.stopFast = true;
-
-    The script will finish the current video and stop. The total number of deleted reposts will be shown.
 ```
+    The script will finish the current video and stop. The total number of deleted reposts will be shown.
 
 ⚙️ Adjusting the Speed
 
