@@ -42,6 +42,8 @@ You can adjust the script's speed by changing the `DELAY` variable at the beginn
 const DELAY = 400; // Delay in milliseconds between videos. Default is 400ms.
 ```
 
+## 📖 How to Use
+
 ```markdown
 > 📖 **New to this?** See the full [step-by-step guide](USAGE.md).
 ```
