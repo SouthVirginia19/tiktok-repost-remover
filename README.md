@@ -1,7 +1,4 @@
 
-```markdown
-> 📖 **New to this?** See the full [step-by-step guide](HOW-TO-USE.md).
-
 🚀 Bulk remove all your TikTok reposts in seconds — a fast, one-click browser console script.
 
 # TikTok Repost Remover
@@ -41,3 +38,6 @@ You can adjust the script's speed by changing the `DELAY` variable at the beginn
 ```javascript
 const DELAY = 400; // Delay in milliseconds between videos. Default is 400ms.
 
+
+```markdown
+> 📖 **New to this?** See the full [step-by-step guide](HOW-TO-USE.md).
