@@ -40,4 +40,4 @@ const DELAY = 400; // Delay in milliseconds between videos. Default is 400ms.
 ```
 
 ```markdown
-> 📖 **New to this?** See the full [step-by-step guide](HOW-TO-USE.md).
+> 📖 **New to this?** See the full [step-by-step guide](USAGE.md).
