@@ -27,6 +27,10 @@ A fast and efficient JavaScript script for the browser console that automaticall
 3.  Open the browser's **Developer Tools** (Press `F12`) and go to the **`Console`** tab.[reference:6]
 4.  Copy and paste the entire script from **`script.js`** into the console and press **`Enter`**.[reference:7]
 
+## 🛑 How to Stop
+
+window.stopFast = true;
+
 ## ⚙️ Customization (Speed Control)
 
 You can adjust the script's speed by changing the `DELAY` variable at the beginning of the script.
@@ -34,6 +38,3 @@ You can adjust the script's speed by changing the `DELAY` variable at the beginn
 ```javascript
 const DELAY = 400; // Delay in milliseconds between videos. Default is 400ms.
 
-## 🛑 How to Stop
-
-window.stopFast = true;
