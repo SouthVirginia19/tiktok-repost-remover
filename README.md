@@ -1,5 +1,7 @@
 
-🚀 Bulk remove all your TikTok reposts in seconds — a fast, one-click browser console script.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TikTok](https://img.shields.io/badge/TikTok-Web%20Version-black?logo=tiktok)](https://www.tiktok.com)
 
 # TikTok Repost Remover
 
